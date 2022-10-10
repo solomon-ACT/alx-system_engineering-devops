@@ -1,6 +1,5 @@
 #!/bin/bash
-cd /tmp/ 
-touch my_first_directory/betty
+cd /tmp/ touch my_first_directory/betty
 
 
 
