@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $Whoami
+echo -e "$USER"
