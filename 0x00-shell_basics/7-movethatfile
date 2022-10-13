@@ -1,6 +1,2 @@
 #!/bin/bash
-cd /tmp/ touch my_first_directory/betty
-
-
-
-
+mv /tmp/betty /tmp/holberton/my_first_directory
